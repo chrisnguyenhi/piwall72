@@ -1,0 +1,3 @@
+
+./sshWall & ./activateController.sh
+done

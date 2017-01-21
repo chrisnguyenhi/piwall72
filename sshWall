@@ -1,0 +1,6 @@
+ssh X.X.X.X ./playTile.sh &
+ssh X.X.X.X ./playTile.sh &
+ssh X.X.X.X ./playTile.sh &
+ssh X.X.X.X ./playTile.sh &
+ssh X.X.X.X ./playTile.sh &
+ssh X.X.X.X ./playTile.sh 
